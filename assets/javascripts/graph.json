@@ -1,0 +1,23 @@
+{
+  "nodes": [
+    {
+      "id": "0",
+      "name": "HOMEPAGE",
+      "symbolSize": 0,
+      "value": "/"
+    },
+    {
+      "id": "1",
+      "name": "Tags Page",
+      "symbolSize": 0,
+      "value": "/tags/"
+    },
+    {
+      "id": "2",
+      "name": "TCVN5738 2021",
+      "symbolSize": 0,
+      "value": "/TCVN/TCVN5738_2021/"
+    }
+  ],
+  "links": []
+}
